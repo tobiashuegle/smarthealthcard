@@ -2,8 +2,8 @@
     "kty": "EC",
     "use": "sig",
     "crv": "P-256",
-    "kid": "MSumiSECBZEzR-kN2vrBx5lHiCa5HsMU7dD2qLH00OQ",
-    "x": "5t4xjiBEst90KXikxsBe36-sB6MpuKBmFJg-4CoLtR0",
-    "y": "PgWe1mu2mDOMf3y9BglLgIGsbMQytRR3MkhiCwhOC4o",
+    "kid": "lA_mS8g4QXJqrbBcZiWQihA7xEkx5Fy7AOC5QmTmg74",
+    "x": "3CpFLBN-nzkNcyl72PPc5VBkeWogrt_B_K5UGKISmjI",
+    "y": "XH4r8lxUn2yzTFRJOaSamDJMXAm7QTfDJDx8KG37It4",
     "alg": "ES256"
 }
