@@ -2,7 +2,7 @@
     "kty": "EC",
     "use": "sig",
     "crv": "P-256",
-    "kid": "lA_mS8g4QXJqrbBcZiWQihA7xEkx5Fy7AOC5QmTmg74",
+    "kid": "IwPNKm31RugkQdNsq4azS8DH0cKJAxUfj9m_7NbUGdk",
     "x": "3CpFLBN-nzkNcyl72PPc5VBkeWogrt_B_K5UGKISmjI",
     "y": "XH4r8lxUn2yzTFRJOaSamDJMXAm7QTfDJDx8KG37It4",
     "alg": "ES256"
