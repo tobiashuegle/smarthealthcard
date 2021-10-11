@@ -1,6 +1,5 @@
 {
     "kty": "EC",
-    "d": "OH9qBzmH1PcnfRhdQ42QuZpeeskKFmJKS6Oc94LPDlU",
     "use": "sig",
     "crv": "P-256",
     "kid": "MSumiSECBZEzR-kN2vrBx5lHiCa5HsMU7dD2qLH00OQ",
